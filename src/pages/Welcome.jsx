@@ -19,7 +19,7 @@ const Welcome = () => {
     <div className="container">
       <div className="wrapper">
         <div className="welcome">
-          <Header text="Добро пожаловать в квиз от лучшего учебного центра" />
+          <Header headerType=""h1 headerText="Добро пожаловать в квиз от лучшего учебного центра" />
           <form className="welcome__form">
             <AppLabel
               errorText="Введите Имя в правильном формате"

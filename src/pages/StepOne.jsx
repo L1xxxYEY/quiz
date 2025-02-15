@@ -23,7 +23,7 @@ const StepOne = () => {
             </div>
           </div>
           <div className="question">
-            <Header headerType=""h2 text="1. Занимательный вопрос"/>
+            <Header headerType=""h2 headerText="1. Занимательный вопрос"/>
             <AppLabel
               errorText="Введите Имя в правильном формате"
               labelId="answer"
